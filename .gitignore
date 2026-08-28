@@ -1,0 +1,15 @@
+**/venv/
+**/env/
+**/ENV/
+
+# File cache và biên dịch của Python
+**/__pycache__/
+*.py[cod]
+
+# File tạm và checkpoint của Jupyter Notebook
+**/.ipynb_checkpoints/
+
+# Cấu hình IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+.env
